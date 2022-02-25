@@ -38,8 +38,5 @@
 
 <br/>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanagrawal22&show_icons=true&locale=en&layout=compact&theme=prussian" alt="aryanagrawal22" /></p>
-
-
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanagrawal22&show_icons=true&locale=en&theme=prussian" alt="aryanagrawal22" /></p>
