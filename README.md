@@ -2,6 +2,8 @@
 <h3 align="center">Student @ <a href="https://pict.edu/#"> Pune Institute of Computer Technology</a> </h3>
 <h3 align="center">Full Stack Web Developer and ML Enthusiast</h3>
 
+<br/>
+
 Hi, I'm [Aryan Agrawal](https://aryanagrawal.in), a Full Stack Developer 💻 and Cloud/DevOps Enthusiast ☁️ from India. I’m a Software Engineer specilalizing in building exceptional websites, system applications and everything in between.
 
   - 🌱 I’m currently learning NextJS | TypeScript
