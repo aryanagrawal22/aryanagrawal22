@@ -8,6 +8,7 @@ Hi, I'm [Aryan Agrawal](https://aryanagrawal.in), a Full Stack Developer 💻 an
 
   - 🌱 I’m currently learning GraphQL | TypeScript
   - 📫 Reach me at **aryanagrawal20023@gmail.com**
+  - 📝 My - [Portfolio](https://aryanagrawal.in)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanagrawal22&label=Profile%20views&color=0e75b6&style=flat" alt="aryanagrawal22" /> </p>
 
